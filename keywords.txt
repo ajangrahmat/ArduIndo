@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For ArduIndo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+angka	KEYWORD1
+fungsi	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+aturSebagai	KEYWORD2
+kendalikan	KEYWORD2
+tunggu	KEYWORD2
+sekali	KEYWORD2
+abadi	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+KELUARAN	LITERAL1
+MASUKAN	LITERAL1
+MENYALA	LITERAL1
+MATI	LITERAL1
+
+#######################################
+# Library Name (KEYWORD1)
+#######################################
+
+ArduIndo	KEYWORD1
+cetak	KEYWORD1
+mulaiSerial	KEYWORD1
